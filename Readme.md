@@ -77,6 +77,21 @@ python calculator.py
 - String formatting
 - Building a menu-driven application
 
+## 📌 Version History
+
+- **v1:** Basic calculator with arithmetic operations.
+- **v2:** Refactored code using functions and improved error handling.
+- **v3:** Added calculation history, file handling, and better result formatting.
+
+## 🔮 Future Improvements
+
+- [ ] Build a GUI version using Tkinter
+- [ ] Add scientific operations
+- [ ] Add timestamps to calculation history
+- [ ] Add an option to clear history
+- [ ] Allow users to choose decimal precision
+- [ ] Improve the user interface and code structure
+
 ## 👩‍💻 Author
 
 **Labiba Ghani**
