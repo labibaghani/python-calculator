@@ -1,8 +1,8 @@
-# 🧮 Python Calculator
+# Python Calculator
 
 A simple command-line calculator built with Python.
 
-## ✨ Features
+## Features
 
 - Addition
 - Subtraction
@@ -16,7 +16,7 @@ A simple command-line calculator built with Python.
 - Saves history to `history.txt`
 - Loads previous history when the program starts
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 python-calculator/
@@ -26,7 +26,7 @@ python-calculator/
 └── .gitignore
 ```
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -46,11 +46,11 @@ cd python-calculator
 python calculator.py
 ```
 
-## 💻 Technologies Used
+## Technologies Used
 
-- Python 3
+- Python
 
-## 📸 Sample Menu
+## Sample Menu
 
 ```
 -------------------------
@@ -66,7 +66,7 @@ python calculator.py
 8. Exit
 ```
 
-## 📖 What I Learned
+## What I Learned
 
 - Python functions
 - Loops
@@ -77,21 +77,19 @@ python calculator.py
 - String formatting
 - Building a menu-driven application
 
-## 📌 Version History
+## Version History
 
 - **v1:** Basic calculator with arithmetic operations.
 - **v2:** Refactored code using functions and improved error handling.
 - **v3:** Added calculation history, file handling, and better result formatting.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Build a GUI version using Tkinter
 - [ ] Add scientific operations
 - [ ] Add timestamps to calculation history
 - [ ] Add an option to clear history
 - [ ] Allow users to choose decimal precision
-- [ ] Improve the user interface and code structure
+- [ ] Improve overall user interface and code structure
 
-## 👩‍💻 Author
-
-**Labiba Ghani**
+**Developed by Labiba Ghani**
